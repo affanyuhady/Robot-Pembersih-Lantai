@@ -40,13 +40,6 @@ void setup ()
   lcd.backlight();
   lcd.setCursor(0, 0);
            //0123456789012345 
-  lcd.print("CELSI PUTRI  W S");
-  lcd.setCursor(0, 1);
-           //0123456789012345      
-  lcd.print(" 17101152620098 ");
-  delay(2000);
-  lcd.setCursor(0, 0);
-           //0123456789012345 
   lcd.print(" ALAT PEMBERSIH ");
   lcd.setCursor(0, 1);
            //0123456789012345      
